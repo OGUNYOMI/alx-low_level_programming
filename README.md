@@ -1,1 +1,1 @@
-this is repo of this project
+This is the repository of my projects on C programming.
